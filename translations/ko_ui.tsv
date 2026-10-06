@@ -1,0 +1,495 @@
+key	ko
+menu/Menu/build_flavor_custom	미정
+menu/build_description_action	당신의 강점은 신체 단련과 폭력의 실전 활용에 있습니다. 감정은 거추장스러울 뿐입니다.
+menu/build_description_custom	공작국에서 가장 특별한 어린 스파이입니다. 비할 데 없는 재능을 지녔습니다.
+menu/build_description_intellect	지적 능력이 허약한 신체를 보완합니다. 유리병 속에 담긴 커다란 두뇌입니다.
+menu/build_description_relation	인간 영혼의 기술자입니다. 영적으로는 깊고 넓지만 정신적으로는 미숙합니다.
+menu/build_distribute_label	스킬 포인트 {0}
+menu/build_faculties_label	능력군 포인트 {0}
+menu/build_faculties_title	능력군 조정
+menu/build_faculty_action_description	당신의 육체와 그 충동
+menu/build_faculty_intellect_description	당신의 사고방식
+menu/build_faculty_relation_description	당신이 사람을 이해하는 방식
+menu/build_flavor_action_1	단백질 벌레
+menu/build_flavor_action_2	쉽게 멍드는 몸
+menu/build_flavor_action_3	평범한 두 발 동물
+menu/build_flavor_action_4	철의 여인
+menu/build_flavor_action_5	세계 기록 보유자
+menu/build_flavor_intellect_1	텅 빈 머리
+menu/build_flavor_intellect_2	인지 경량급
+menu/build_flavor_intellect_3	패턴 인식자
+menu/build_flavor_intellect_4	인간 계산기
+menu/build_flavor_intellect_5	통합 시냅스 장
+menu/build_flavor_none	해당 없음
+menu/build_flavor_relation_1	더듬거리는 공허
+menu/build_flavor_relation_2	감정 문맹
+menu/build_flavor_relation_3	다시 만나고 싶은 사람
+menu/build_flavor_relation_4	동네의 인기인
+menu/build_flavor_relation_5	시대정신
+menu/build_handicap_title	하향할 스킬 선택
+menu/build_promote_title	강화할 스킬 선택
+menu/build_selection_title	어떤 스파이입니까?
+menu/build_training_description_action	행동 스킬을 강화하여 신체와 본능을 단련합니다.
+menu/build_training_description_intellect	지성 스킬을 강화하여 사고방식을 다듬습니다.
+menu/build_training_description_relation	관계 스킬을 강화하여 사람들을 더 잘 이해할 수 있습니다.
+menu/build_type_action	역동형
+menu/build_type_custom	사용자 지정형
+menu/build_type_intellect	분석형
+menu/build_type_relation	카리스마형
+menu/button_back	뒤로
+menu/button_begin	시작
+menu/button_blocked_instruction	저장 파일 덮어쓰기 또는 삭제
+menu/button_blocked_number	최대 저장 수 도달
+menu/button_blocked_save	저장 차단됨
+menu/button_blocked_thought	생각: 한 번만 저장 가능
+menu/button_blocked_title	차단됨
+menu/button_close	닫기
+menu/button_continue	iOS 및 안드로이드용
+menu/button_delete	삭제
+menu/button_handicap	스킬 하향
+menu/button_hold_title	길게 눌러
+menu/button_label_dialogue_blocked_reason	대화 중
+menu/button_load	불러오기
+menu/button_next	다음
+menu/button_overwrite	덮어쓰기
+menu/button_promote	스킬 강화
+menu/button_reset_audio	오디오 설정 기본값으로 초기화
+menu/button_reset_controls	조작 설정 기본값으로 초기화
+menu/button_reset_display	화면 설정 기본값으로 초기화
+menu/button_reset_gameplay	게임플레이 설정 기본값으로 초기화
+menu/button_reset_visuals	그래픽 설정 기본값으로 초기화
+menu/button_reset	초기화
+menu/button_save	저장
+menu/button_skip	건너뛰기
+menu/category_button_continue	계속
+menu/category_button_credits	제작진
+menu/category_button_exit	종료
+menu/category_button_load	불러오기
+menu/category_button_main_menu	메인 메뉴
+menu/category_button_mind_palace	백스테이지
+menu/category_button_new	새 게임
+menu/category_button_save	저장
+menu/category_button_settings	설정
+menu/category_button_store_link	스토어 페이지 열기
+menu/category_button_store	스토어
+menu/category_button_wishlist	지금 위시리스트에 추가
+menu/content_description_adult	이 게임에는 약물 남용, 신체적 폭력, 차별, 비속어 표현이 포함되어 있습니다.
+menu/content_description_headphones	최적의 경험을 위해 헤드폰 사용을 권장합니다.
+menu/content_description_narrative	선택에는 결과가 따르며, 이후의 이야기 전개와 게임플레이에 영향을 줍니다.
+menu/content_description_title	콘텐츠 경고
+menu/custom_character_downgrade_explanation	그 대가로 강화할 스킬도 하나 선택하게 됩니다.
+menu/file_label_actnumber	제{x}막
+menu/file_label_act	막
+menu/file_label_clothes	공작원 시각 기록
+menu/file_label_data	공작원 기록 데이터 출력본
+menu/file_label_location	장소
+menu/file_label_panel_a	A.
+menu/file_label_panel_b	B.
+menu/file_label_panel_c	C.
+menu/file_label_playtime	플레이 시간
+menu/file_label_recorded	기록 일시
+menu/file_label_resources	자원
+menu/file_label_screenshot	감시 기록 출력본
+menu/file_label_time	시간
+menu/game_never_saved_message	이 플레이에는 저장 파일이 없습니다.
+menu/generic_popup_cancel	취소
+menu/generic_popup_confirm	확인
+menu/initial_title	초기 설정
+menu/notification_delete_save_failure	저장 파일을 삭제할 수 없습니다.
+menu/notification_load_failure	게임을 불러올 수 없습니다.
+menu/notification_save_delete_success	저장 파일이 삭제되었습니다.
+menu/notification_save_failure	게임을 저장할 수 없습니다.
+menu/notification_save_success	게임이 저장되었습니다.
+menu/pause_menu_confirm_quit_message	정말 게임을 종료하시겠습니까?
+menu/pause_menu_confirm_return_main_menu_message	정말 메인 메뉴로 돌아가시겠습니까?
+menu/photosensitivity_warning_description	이 게임에는 깜빡이는 조명과 영상이 포함되어 있어 광과민성 간질 또는 기타 광과민성 질환이 있는 분께는 적합하지 않을 수 있습니다.\n플레이 시 주의해 주십시오.
+menu/photosensitivity_warning_title	광과민성 경고
+menu/save_label_format	{0} – {1}
+menu/save_toast_quicksaved	퀵세이브 완료
+menu/save_toast_savingblocked	저장 차단됨
+menu/saving_icon_description	게임은 주기적으로 자동 저장됩니다. 자동 저장 아이콘이 표시되는 동안에는 게임을 종료하지 마십시오.
+menu/setting_description_auto-select	세계를 이동할 때 주변의 물체를 자동으로 선택합니다.
+menu/setting_description_control_conditioning	사고 형성 메뉴를 열거나 닫습니다.
+menu/setting_description_control_inventory	소지품 메뉴를 열거나 닫습니다.
+menu/setting_description_control_journal	일지 메뉴를 열거나 닫습니다.
+menu/setting_description_control_lookat	카메라를 마우스 커서 방향으로 움직입니다.
+menu/setting_description_control_map	지도 메뉴를 열거나 닫습니다.
+menu/setting_description_easy	이 옵션을 켜면 모든 능동 판정(빨강, 흰색)의 난이도가 1 낮아집니다.
+menu/setting_description_stepped_scroll	이 옵션을 켜면 대화문이 부드럽게 스크롤되지 않고 특정 구간 단위로 넘어갑니다.
+menu/setting_name_auto-select	자동 선택
+menu/setting_name_control_cancel	뒤로/취소
+menu/setting_name_control_conditioning	사고 형성
+menu/setting_name_control_desc_conditioning	사고 형성 메뉴를 열거나 닫습니다.
+menu/setting_name_control_desc_dossier	도시에 메뉴를 열거나 닫습니다.
+menu/setting_name_control_desc_exert	대화 중 스킬 판정에서 분발을 켜거나 끕니다 / 상황별 메뉴 항목을 실행합니다.
+menu/setting_name_control_desc_interact	세계의 물체와 상호작용합니다.
+menu/setting_name_control_desc_inventory	소지품 메뉴를 열거나 닫습니다.
+menu/setting_name_control_desc_journal	일지 메뉴를 열거나 닫습니다.
+menu/setting_name_control_desc_lookdown	카메라를 아래로 움직이고 아래쪽 물체를 선택합니다.
+menu/setting_name_control_desc_lookleft	카메라를 왼쪽으로 움직이고 왼쪽 물체를 선택합니다.
+menu/setting_name_control_desc_lookright	카메라를 오른쪽으로 움직이고 오른쪽 물체를 선택합니다.
+menu/setting_name_control_desc_lookup	카메라를 위로 움직이고 위쪽 물체를 선택합니다.
+menu/setting_name_control_desc_mainmenu	메인 메뉴를 열거나 닫습니다.
+menu/setting_name_control_desc_map	지도 메뉴를 열거나 닫습니다.
+menu/setting_name_control_desc_mouselook	길게 눌러 카메라를 마우스 커서 방향으로 움직입니다.
+menu/setting_name_control_desc_movedown	캐릭터를 아래로 이동합니다.
+menu/setting_name_control_desc_moveleft	캐릭터를 왼쪽으로 이동합니다.
+menu/setting_name_control_desc_moveright	캐릭터를 오른쪽으로 이동합니다.
+menu/setting_name_control_desc_moveup	캐릭터를 위로 이동합니다.
+menu/setting_name_control_desc_nextinteractable	세계에서 상호작용 가능한 다음 물체를 선택합니다.
+menu/setting_name_control_desc_nexttool	다음 도구로 전환합니다.
+menu/setting_name_control_desc_objectiveview	목표 모드를 열거나 닫습니다.
+menu/setting_name_control_desc_pageleft	이전 메뉴로 이동합니다.
+menu/setting_name_control_desc_pageright	다음 메뉴로 이동합니다.
+menu/setting_name_control_desc_previnteractable	월드에서 상호작용할 수 있는 이전 대상을 선택합니다.
+menu/setting_name_control_desc_prevtool	이전 도구로 전환합니다.
+menu/setting_name_control_desc_quickload	가장 최근의 빠른 저장 파일을 불러옵니다.
+menu/setting_name_control_desc_quicksave	게임을 빠르게 저장합니다.
+menu/setting_name_control_desc_revert	특정 메뉴에서 상황별 항목을 실행합니다.
+menu/setting_name_control_desc_scrolldown	인터페이스와 대화를 아래로 스크롤합니다.
+menu/setting_name_control_desc_scrollreset	현재 스크롤 위치를 맨 처음으로 되돌립니다.
+menu/setting_name_control_desc_scrollup	인터페이스와 대화를 위로 스크롤합니다.
+menu/setting_name_control_desc_selectoption1	대화에서 선택지 1을 선택합니다.
+menu/setting_name_control_desc_selectoption2	대화에서 선택지 2를 선택합니다.
+menu/setting_name_control_desc_selectoption3	대화에서 선택지 3을 선택합니다.
+menu/setting_name_control_desc_selectoption4	대화에서 선택지 4를 선택합니다.
+menu/setting_name_control_desc_selectoption5	대화에서 선택지 5를 선택합니다.
+menu/setting_name_control_desc_selectoption6	대화에서 선택지 6을 선택합니다.
+menu/setting_name_control_desc_selectoption7	대화에서 선택지 7을 선택합니다.
+menu/setting_name_control_desc_selectoption8	대화에서 선택지 8을 선택합니다.
+menu/setting_name_control_desc_selectoption9	대화에서 선택지 9를 선택합니다.
+menu/setting_name_control_desc_show_tooltips	화면에 툴팁을 표시합니다.
+menu/setting_name_control_desc_sprint	이동 중에 이 키를 누르거나 길게 누르면 캐릭터가 달립니다.
+menu/setting_name_control_desc_tableft	현재 메뉴의 이전 탭으로 이동합니다.
+menu/setting_name_control_desc_tabright	현재 메뉴의 다음 탭으로 이동합니다.
+menu/setting_name_control_desc_toggleelements	특정 메뉴에서 인터페이스 요소를 표시하거나 숨깁니다.
+menu/setting_name_control_desc_uicancel	현재 인터페이스 동작을 취소합니다 / 이전 메뉴로 이동합니다.
+menu/setting_name_control_desc_uidown	현재 요소의 아래에 있는 다음 인터페이스 요소로 이동합니다.
+menu/setting_name_control_desc_uileft	현재 요소의 왼쪽에 있는 다음 인터페이스 요소로 이동합니다.
+menu/setting_name_control_desc_uiright	현재 요소의 오른쪽에 있는 다음 인터페이스 요소로 이동합니다.
+menu/setting_name_control_desc_uiselect	현재 활성화된 인터페이스 요소를 선택합니다.
+menu/setting_name_control_desc_uiup	현재 요소의 위에 있는 다음 인터페이스 요소로 이동합니다.
+menu/setting_name_control_desc_zoomin	카메라를 확대합니다.
+menu/setting_name_control_desc_zoomout	카메라를 축소합니다.
+menu/setting_name_control_desc_zoomreset	카메라 확대 비율을 기본값으로 되돌립니다.
+menu/setting_name_control_dossier	신상 기록
+menu/setting_name_control_exert	분발 전환
+menu/setting_name_control_interactablenext	다음 대상 선택
+menu/setting_name_control_interactableprevious	이전 대상 선택
+menu/setting_name_control_inventory	소지품
+menu/setting_name_control_journal	일지
+menu/setting_name_control_lookat	살펴보기
+menu/setting_name_control_lookdown	아래 보기/이동
+menu/setting_name_control_lookleft	왼쪽 보기/이동
+menu/setting_name_control_lookright	오른쪽 보기/이동
+menu/setting_name_control_lookup	위 보기/이동
+menu/setting_name_control_mainmenu	메인 메뉴
+menu/setting_name_control_map	지도
+menu/setting_name_control_menu	게임 메뉴 열기
+menu/setting_name_control_movedown	아래로 이동
+menu/setting_name_control_moveleft	왼쪽으로 이동
+menu/setting_name_control_moveright	오른쪽으로 이동
+menu/setting_name_control_moveup	위로 이동
+menu/setting_name_control_pagenext	다음 페이지
+menu/setting_name_control_pageprevious	이전 페이지
+menu/setting_name_control_quickload	빠른 불러오기
+menu/setting_name_control_quicksave	빠른 저장
+menu/setting_name_control_revert	동작 되돌리기
+menu/setting_name_control_run	달리기 전환
+menu/setting_name_control_scrolldown	아래로 스크롤
+menu/setting_name_control_scrollreset	스크롤 초기화
+menu/setting_name_control_scrollup	위로 스크롤
+menu/setting_name_control_selectabove	위쪽 선택
+menu/setting_name_control_selectbelow	아래쪽 선택
+menu/setting_name_control_selectleft	왼쪽 선택
+menu/setting_name_control_selectoption1	선택지 1 선택
+menu/setting_name_control_selectoption2	선택지 2 선택
+menu/setting_name_control_selectoption3	선택지 3 선택
+menu/setting_name_control_selectoption4	선택지 4 선택
+menu/setting_name_control_selectoption5	선택지 5 선택
+menu/setting_name_control_selectoption6	선택지 6 선택
+menu/setting_name_control_selectoption7	선택지 7 선택
+menu/setting_name_control_selectoption8	선택지 8 선택
+menu/setting_name_control_selectoption9	선택지 9 선택
+menu/setting_name_control_selectoptions	텍스트 선택지 선택
+menu/setting_name_control_selectright	오른쪽 선택
+menu/setting_name_control_select	상호작용
+menu/setting_name_control_show_tooltips	툴팁 표시
+menu/setting_name_control_tabnext	다음 탭
+menu/setting_name_control_tabprevious	이전 탭
+menu/setting_name_control_toggleelements	요소 표시/숨김
+menu/setting_name_control_toggleobjective	목표 보기 전환
+menu/setting_name_control_toolnext	다음 도구 선택
+menu/setting_name_control_toolprevious	이전 도구 선택
+menu/setting_name_control_uiselect	선택
+menu/setting_name_control_unassigned	할당 안 됨
+menu/setting_name_control_zoomin	확대
+menu/setting_name_control_zoomout	축소
+menu/setting_name_control_zoomreset	확대 비율 초기화
+menu/setting_name_easy	스파이 하기엔 너무 어림
+menu/setting_name_stepped_scroll	단계별 스크롤
+menu/settings_audio_filter_slider_label	{0} kHz
+menu/settings_audio_slider_label	{0} %
+menu/settings_button_label_audioTest	오디오 테스트
+menu/settings_button_label_twitchLogin	Twitch 로그인
+menu/settings_character_menu_description	캐릭터 메뉴를 열거나 닫습니다.
+menu/settings_character_menu_title	캐릭터 메뉴
+menu/settings_clear_binding_tooltip	입력 할당 지우기
+menu/settings_controller_audio_toggle_description	컨트롤러 스피커를 켜거나 끕니다.
+menu/settings_controller_audio_toggle_name	컨트롤러 스피커 켜기/끄기
+menu/settings_controller_audio_volume_description	컨트롤러 스피커의 최대 음량을 조절합니다.
+menu/settings_controller_audio_volume_name	컨트롤러 스피커 음량
+menu/settings_controls_desc_twitchvote	Twitch 연동이 활성화된 경우, 여기서 대화 및 일지 과제에 대한 시청자 투표를 시작하거나 종료할 수 있습니다.
+menu/settings_controls_rebind_gamepad_popup_message	이 동작에 할당할 컨트롤러 버튼을 누르십시오.
+menu/settings_controls_rebind_keyboard_popup_message	이 동작에 할당할 키를 누르십시오.
+menu/settings_controls_rebind_nsjc_popup_message	이 동작에 할당할 Joy-Con 2의 버튼을 누르십시오.
+menu/settings_controls_rebind_nsproc_popup_message	이 동작에 할당할 Pro Controller의 버튼을 누르십시오.
+menu/settings_controls_rebind_popup_cancel_message	(3초간 누르고 있으면) 취소
+menu/settings_controls_rebind_popup_conflict_message_part_1	새 조작 할당:
+menu/settings_controls_rebind_popup_conflict_message_part_2	이 조작은 이미 다음 동작에 할당되어 있습니다.\n<color=#AAAAAA>{0}</color>\n해당 동작에서 이 조작이 제거됩니다. 계속하여 <color=#AAAAAA>{1}</color>에 할당하시겠습니까?
+menu/settings_controls_rebind_startendvote_message	투표 시작 / 종료
+menu/settings_controls_rebind_xb_controller_popup_message	이 동작에 할당할 컨트롤러 버튼을 누르십시오.
+menu/settings_controls_section_column_gamepad	컨트롤러
+menu/settings_controls_section_column_key	키보드 및 마우스
+menu/settings_controls_section_column_nsjc	Joy-Con 2
+menu/settings_controls_section_column_nsproc	Pro Controller
+menu/settings_controls_section_dialogues_menus	대화 및 메뉴 조작
+menu/settings_controls_section_label_global	공통 조작
+menu/settings_controls_section_label_world	월드 조작
+menu/settings_controls_section_xb_controller	컨트롤러
+menu/settings_definition_hpf	저음을 얼마나 줄일지 조절합니다. 주로 효과음과 음악에 영향을 줍니다.
+menu/settings_definition_lpf	고음을 얼마나 깎을지 설정합니다. 주로 환경음과 음성에 영향을 줍니다.
+menu/settings_definition_speaker	사용할 오디오 채널 수를 선택합니다.
+menu/settings_delete_analytics_popup	분석 데이터를 삭제하시겠습니까?
+menu/settings_delete_analytics_title	분석 데이터 삭제
+menu/settings_description_aliasing	활성화하면 모델과 텍스처의 가장자리가 부드럽게 표시됩니다.
+menu/settings_description_aspect	화면을 지정한 화면 비율에 맞추도록 강제합니다. 표시 모드가 전체 화면이면 화면 가장자리에 검은 띠가 나타납니다.
+menu/settings_description_autosave	자동 저장을 켜거나 끕니다. 활성화하면 게임이 주기적으로 새 저장 파일을 만듭니다.
+menu/settings_description_camerafollow	카메라가 플레이어를 따라가는 속도를 조절합니다.
+menu/settings_description_cameraoffset	마우스가 화면 가장자리에 가까워질 때 카메라가 마우스를 따라가는 정도를 조절합니다.
+menu/settings_description_contrast	활성화하면 색상이 더 선명한 색조로 바뀌고 메뉴 배경이 어두워집니다.
+menu/settings_description_cues	활성화하면 소리가 나는 방향과 출처를 설명하는 말풍선이 표시됩니다.
+menu/settings_description_cursor	마우스 커서 크기를 조절합니다.\n'시스템'은 운영체제를 사용해 커서를 그려 커서 지연을 줄입니다.
+menu/settings_description_customuicolors	인터페이스의 일부 색상을 직접 지정해 중요한 요소를 더 잘 알아볼 수 있게 합니다.
+menu/settings_description_display_	게임이 화면에 표시되는 방식을 조절합니다.
+menu/settings_description_dyslexic	활성화하면 장식용이 아닌 텍스트가 난독증 친화 글꼴로 표시됩니다.
+menu/settings_description_facultyofactioncolor	행동 능력군과 관련 스킬에 사용할 사용자 지정 색상입니다.
+menu/settings_description_facultyofintellectcolor	지성 능력군과 관련 스킬에 사용할 사용자 지정 색상입니다.
+menu/settings_description_facultyofrelationcolor	관계 능력군과 관련 스킬에 사용할 사용자 지정 색상입니다.
+menu/settings_description_gamma	모니터가 의도된 밝기로 표시되도록 감마를 조절합니다. 왼쪽의 원이 거의 보이지 않아야 합니다.
+menu/settings_description_hold_to_click_ns2	활성화하면 터치스크린 또는 마우스 모드 사용 시, 버튼이나 터치스크린을 일정 시간 길게 눌러야 동작이 인식됩니다. 누르는 시간은 조절할 수 있습니다.
+menu/settings_description_hold_to_click	활성화하면 마우스 버튼을 일정 시간 길게 눌러야 입력이 인식됩니다. 누르는 시간은 조절할 수 있습니다.
+menu/settings_description_hold	동작을 실행하려면 버튼을 얼마나 오래 눌러야 하는지 설정합니다.
+menu/settings_description_hud	월드 화면에서 사용자 인터페이스를 숨깁니다.
+menu/settings_description_icons	컨트롤러 사용 시 표시되는 아이콘을 조절합니다.
+menu/settings_description_language_switch	게임 텍스트를 선택한 다른 언어로 전환합니다.
+menu/settings_description_language	게임에 표시되는 텍스트의 언어를 변경합니다.
+menu/settings_description_loudness	게임 시작 시 전체 음량을 70%로 설정합니다.
+menu/settings_description_mixing	사용 중인 장치에 맞게 오디오 균형을 최적화합니다.
+menu/settings_description_monitor	게임을 표시할 모니터를 선택합니다.
+menu/settings_description_motion	활성화하면 애니메이션과 전환 중 카메라 움직임의 속도와 강도가 줄어듭니다.
+menu/settings_description_mouse	활성화하면 마우스 커서가 게임 창 밖으로 나가지 않습니다.
+menu/settings_description_mute	게임 창이 보이지 않을 때 게임 소리를 끕니다.
+menu/settings_description_notification_dot	알림 점에 사용할 사용자 지정 색상입니다.
+menu/settings_description_outlinecolor	상호작용할 수 있는 사물의 윤곽선에 사용할 사용자 지정 색조입니다.
+menu/settings_description_outlinethickness	상호작용할 수 있는 사물의 윤곽선 두께를 조절합니다.
+menu/settings_description_panning	왼쪽과 오른쪽 오디오 채널 간의 균형을 조절합니다.
+menu/settings_description_photosensitivity	활성화하면 시각 효과와 애니메이션에서 강한 섬광이 제거됩니다.
+menu/settings_description_profiles	이퀄라이저 설정을 변경해 다양한 청각 어려움에 대응합니다.
+menu/settings_description_redcheckcolor	빨간 판정에 사용할 사용자 지정 색상입니다.
+menu/settings_description_refreshrate	전체 화면 모드에서 사용할 화면 주사율을 설정합니다.
+menu/settings_description_render	게임의 전반적인 렌더링 품질을 조절합니다. 낮은 설정은 사양이 낮은 기기에서 더 부드러운 플레이를 제공할 수 있습니다.
+menu/settings_description_scaling	사용자 인터페이스 크기를 조절합니다.
+menu/settings_description_sensitivity	모션 컨트롤의 감도를 조절합니다.
+menu/settings_description_sensor	활성화하면 공포, 유혈, 심각한 신체 손상이 나오는 장면에서 화면이 어두워집니다.
+menu/settings_description_speech	활성화하면 커서를 올렸거나 선택한 인터페이스 요소와 메뉴 화면 제목을 음성으로 읽어 줍니다.
+menu/settings_description_sprint	활성화하면 달리기 키가 누르고 있는 방식이 아니라 걷기와 달리기를 전환하는 방식으로 작동합니다.
+menu/settings_description_textsize	장식용이 아닌 텍스트의 크기를 변경합니다.
+menu/settings_description_textspeed	코멘트, 구체, 알림이 표시되는 시간을 조절합니다.
+menu/settings_description_twitchTimer	Twitch 투표 타이머의 지속 시간을 조절합니다.
+menu/settings_description_twitch	활성화하면 플레이어가 허용했을 때 Twitch 시청자가 캐릭터 메뉴를 보고 대화 및 일지 과제에 투표할 수 있습니다.
+menu/settings_description_usecustomoutlinecolor	상호작용할 수 있는 모든 사물의 윤곽선 색상을 지정한 하나의 색상으로 통일합니다.
+menu/settings_description_vibration_nx2	진동 기능의 강도를 조절합니다.
+menu/settings_description_vibration_ps5	진동 강도를 조절합니다.
+menu/settings_description_vibration_xbox	진동 강도를 조절합니다.
+menu/settings_description_vibration	진동 강도를 조절합니다.
+menu/settings_description_visibility	사물의 윤곽선이 보이려면 얼마나 가까이 다가가야 하는지 조절합니다.
+menu/settings_description_voiceover	들을 음성 종류를 선택합니다.
+menu/settings_description_volumeenvironment	바람 소리 같은 환경음의 음량을 조절합니다.
+menu/settings_description_volumemaster	모든 오디오의 최대 음량을 조절합니다.
+menu/settings_description_volumemusic	배경 음악의 음량을 조절합니다.
+menu/settings_description_volumesfx	발소리, 문 소리, 총소리처럼 강조되는 극적인 효과음의 음량을 조절합니다.
+menu/settings_description_volumeui	메뉴와 버튼을 조작할 때 재생되는 소리의 음량을 조절합니다.
+menu/settings_description_volumevoice	캐릭터 대사 음성의 음량을 조절합니다.
+menu/settings_description_vsync	화면 찢어짐을 막기 위해 게임 프레임 속도를 모니터 주사율에 맞춥니다.\n화면 찢어짐과 초당 프레임 수(FPS)를 줄여 성능을 개선할 수 있습니다.
+menu/settings_description_walkable	활성화하면 바닥에서 걸어갈 수 있는 영역이 표시됩니다.
+menu/settings_description_zoom	활성화하면 플레이어의 이동 속도에 맞춰 카메라가 자동으로 확대/축소됩니다.
+menu/settings_dialogue_preview_entry_entity	내레이터
+menu/settings_dialogue_preview_entry	한글 글꼴 미리보기 예시입니다. 표시 상태를 확인하십시오!
+menu/settings_dialogue_preview_option_check	한글 글꼴 미리보기 예시입니다.
+menu/settings_dialogue_preview_option_text1	한글 글꼴 미리보기 예시입니다!
+menu/settings_dialogue_preview_option_text2	한글 글꼴 미리보기 예시입니다?
+menu/settings_fps_limit_description	수직동기화가 꺼져 있을 때 게임의 최대 초당 프레임 수(FPS)를 설정합니다.\n값을 낮추면 프레임 변동이 줄어들고 성능이 개선될 수 있습니다.
+menu/settings_fps_limit_format	{0} FPS
+menu/settings_fps_limit_off	제한 없음
+menu/settings_fps_limit_title	프레임 제한
+menu/settings_label_hectohertz	hHz
+menu/settings_label_kilohertz_	kHz
+menu/settings_label_off	끔
+menu/settings_label_on	켬
+menu/settings_monitor_description	게임을 표시할 모니터를 지정합니다.
+menu/settings_monitor_title	모니터
+menu/settings_name_aliasing	안티앨리어싱
+menu/settings_name_aspect	화면 비율 강제
+menu/settings_name_autosave	자동 저장
+menu/settings_name_camerafollow	카메라 추적 속도
+menu/settings_name_cameraoffset	카메라 선택 오프셋
+menu/settings_name_contrast	고대비
+menu/settings_name_control_confirmtext	텍스트 입력 확인
+menu/settings_name_cues	오디오 단서
+menu/settings_name_cursor	커서 크기
+menu/settings_name_display_	표시 모드
+menu/settings_name_dyslexic	난독증 친화 글꼴
+menu/settings_name_gamma	감마 보정
+menu/settings_name_hold_to_click_ns2	길게 눌러 클릭/터치
+menu/settings_name_hold_to_click	길게 눌러 클릭
+menu/settings_name_hold	길게 눌러 동작
+menu/settings_name_hpf	하이패스 필터
+menu/settings_name_hud	HUD 숨기기
+menu/settings_name_icons	컨트롤러 아이콘
+menu/settings_name_language_switch	언어 전환
+menu/settings_name_language	텍스트 언어
+menu/settings_name_loudness	시작 시 음량
+menu/settings_name_lpf	로우패스 필터
+menu/settings_name_mixing	믹싱 방식
+menu/settings_name_motion	움직임 줄이기
+menu/settings_name_mouse	마우스 가두기
+menu/settings_name_mute	최소화 시 음소거
+menu/settings_name_outlinecolor	사용자 지정 윤곽선 색상
+menu/settings_name_outlinethickness	윤곽선 두께
+menu/settings_name_panning	모노 오디오 패닝
+menu/settings_name_photosensitivity	광과민성
+menu/settings_name_profiles	오디오 보조 프로필
+menu/settings_name_render	렌더링 품질
+menu/settings_name_scaling	인터페이스 크기 배율
+menu/settings_name_sensitivity	마우스/스틱 감도
+menu/settings_name_sensor	극단적 콘텐츠 센서
+menu/settings_name_speaker_ps5	스피커 유형
+menu/settings_name_speaker	스피커 유형
+menu/settings_name_speech	텍스트 음성 변환
+menu/settings_name_sprint	키보드 달리기 전환
+menu/settings_name_textsize	텍스트 크기
+menu/settings_name_textspeed	텍스트 속도
+menu/settings_name_twitchTimer	Twitch 투표 시간
+menu/settings_name_twitch	Twitch 연동
+menu/settings_name_vibration_nx2	진동
+menu/settings_name_vibration_ps5	진동
+menu/settings_name_vibration_xbox	진동
+menu/settings_name_vibration	진동
+menu/settings_name_visibility	상호작용 대상 표시
+menu/settings_name_voiceover	음성 출력
+menu/settings_name_volumeenvironment	환경음 음량
+menu/settings_name_volumemaster	마스터 음량
+menu/settings_name_volumemusic	음악 음량
+menu/settings_name_volumesfx	효과음 음량
+menu/settings_name_volumeui	인터페이스 음량
+menu/settings_name_volumevoice	음성 음량
+menu/settings_name_vsync	수직동기화
+menu/settings_name_walkable	이동 가능 구역 표시
+menu/settings_name_zoom	동적 확대/축소
+menu/settings_option_cursor_extra	특대
+menu/settings_option_cursor_hardware	시스템
+menu/settings_option_cursor_large	크게
+menu/settings_option_cursor_med	보통
+menu/settings_option_cursor_small	작게
+menu/settings_option_display_both	전체 창 모드
+menu/settings_option_display_full	전체 화면
+menu/settings_option_display_windowed	창 모드
+menu/settings_option_icons_automatic	자동
+menu/settings_option_icons_nintendo	닌텐도
+menu/settings_option_icons_none	없음
+menu/settings_option_icons_playstation	PlayStation
+menu/settings_option_icons_xbox	Xbox
+menu/settings_option_language_chinesesimple	중국어 간체
+menu/settings_option_language_english	English
+menu/settings_option_language_german	Deutsch
+menu/settings_option_language_russian	Русский
+menu/settings_option_language_spanish	Español (latino)
+menu/settings_option_mixing_bar	사운드바
+menu/settings_option_mixing_headphones	헤드폰
+menu/settings_option_mixing_night	야간 모드
+menu/settings_option_mixing_studio	스튜디오
+menu/settings_option_mixing_tv	TV
+menu/settings_option_monitor	모니터 선택
+menu/settings_option_outlinethickness_extra	매우 굵게
+menu/settings_option_outlinethickness_med	보통
+menu/settings_option_outlinethickness_thick	굵게
+menu/settings_option_outlinethickness_thin	얇게
+menu/settings_option_panning_	좌/우
+menu/settings_option_profiles_conductive	전음성 난청
+menu/settings_option_profiles_default	기본
+menu/settings_option_profiles_mixed	혼합성 난청
+menu/settings_option_profiles_sensorinueural	감각신경성 난청
+menu/settings_option_render_high	높음
+menu/settings_option_render_low	낮음
+menu/settings_option_render_med	중간
+menu/settings_option_speaker_mono	모노
+menu/settings_option_speaker_stereo	스테레오
+menu/settings_option_textsize_extra	특대
+menu/settings_option_textsize_large	크게
+menu/settings_option_textsize_medium	보통
+menu/settings_option_textsize_small	작게
+menu/settings_option_textspeed_fast	빠름
+menu/settings_option_textspeed_med	보통
+menu/settings_option_textspeed_slow	느림
+menu/settings_option_voice_all	내레이터와 등장인물
+menu/settings_option_voice_characters	등장인물만
+menu/settings_option_voice_narrator	내레이터만
+menu/settings_option_voice_none	없음
+menu/settings_panning_format	좌 {0}% 우 {1}%
+menu/settings_percentage_format	{0}%
+menu/settings_play_test_sounds_title	테스트 오디오 재생
+menu/settings_refresh_rate_format	{0}Hz
+menu/settings_resolution_description	게임 화면 해상도를 설정합니다. 해상도를 낮추면 성능이 향상될 수 있습니다.\n창 모드에서는 창이 이 크기에 맞춰집니다.
+menu/settings_resolution_dropdown_format	{0} x {1} ({2}:{3})
+menu/settings_resolution_popup	이 해상도를 유지하시겠습니까?\n({0}초 후 이전 설정으로 복원됩니다)
+menu/settings_resolution_title	화면 해상도
+menu/settings_share_analytics_description	분석 데이터를 통해 ZA/UM이 플레이 중 익명 데이터를 수집하여 향후 게임 조정과 개선에 활용할 수 있습니다.
+menu/settings_share_analytics_title	분석 데이터 공유
+menu/settings_steamdeck_performance_warning	이 값을 높이면 Steam Deck의 성능과 배터리 지속 시간에 악영향을 줄 수 있습니다.
+menu/settings_stop_test_sounds_title	테스트 오디오 정지
+menu/settings_tab_accessibility	접근성
+menu/settings_tab_audio	오디오
+menu/settings_tab_controls	조작
+menu/settings_tab_display	화면
+menu/settings_tab_gameplay	게임 플레이
+menu/settings_tab_visuals	그래픽
+menu/settings_title_customuicolors	사용자 지정 인터페이스 색상
+menu/settings_title_facultyofactioncolor	색상: 행동 능력군
+menu/settings_title_facultyofintellectcolor	색상: 지성 능력군
+menu/settings_title_facultyofrelationcolor	색상: 관계 능력군
+menu/settings_title_notification_dot_color	알림 점 색상
+menu/settings_title_redcheckcolor	붉은 판정 색상
+menu/settings_title_refreshrate	주사율
+menu/settings_title_usecustomoutlinecolor	사용자 지정 윤곽선 색상
+menu/settings_twitch_connect_account_button	Twitch 계정 연결
+menu/settings_twitch_description_connected	{0}에 연결되었습니다
+menu/settings_twitch_description_error	채널이 방송 중이 아니거나 '{0}' 카테고리로 설정되어 있지 않습니다.
+menu/settings_twitch_disconnect_account_button	Twitch 계정 연결 해제
+menu/settings_twitch_duration	{0}초
+menu/settings_vsync_mode_full	켬: 전체 주사율
+menu/settings_vsync_mode_half	켬: 1/2 주사율
+menu/settings_vsync_mode_off	끔
+menu/settings_vsync_mode_quarter	켬: 1/4 주사율
+menu/slot_autosave_name	자동 저장
+menu/slot_new_name	새 슬롯
+menu/slot_nosave_name	저장 기록 없음
+menu/slot_quicksave_name	빠른 저장
+menu/store_description_atellier	ZA/UM 게임 속 세계에서 영감을 받아 주문 제작한 의류와 유물입니다.
+menu/store_description_disco	장르를 정의한 RPG의 완전판입니다. 살인 사건을 해결하고, 잊지 못할 인물들과 마주하고, 뇌물을 받고, 자신의 운명을 빚어내십시오.
+menu/store_description_mobile	상을 휩쓴 RPG를 새롭게 재해석한 작품으로, 레바숄을 손안에 담아 보십시오. 디스코 엘리시움의 방대한 모험 이야기를 이제 안드로이드에서 만나실 수 있습니다.
+menu/time_since_last_save_message	마지막 저장 이후 {0}분이 지났습니다.
+menu/twitch_end_vote	투표 종료
+menu/twitch_start_vote	투표 시작
+menu/twitch_voting_percentage_format	{0}%
+menu/unsaved_progress_loss_warning	저장하지 않은 진행 상황은 모두 사라집니다.

@@ -1,0 +1,7 @@
+# release payload and game files are not tracked
+release/
+*.bundle
+*.part0
+*.part1
+*.zip
+backup_original/
