@@ -1,4 +1,344 @@
-key	ko
+audiocues/broken_red_disc	*왜곡된 음악*
+audiocues/overheard_piano	*부드러운 피아노 선율*
+audiocues/playing_with_uv	*가벼운 피아노 선율*
+audiocues/red_disc_endgame	*몽환적인 전자음악*
+audiocues/repaired_red_disc	*몽환적인 전자음악*
+audiocues/space_recording	*울리는 남성 목소리*
+audiocues/telephone_ringing	*전화벨 소리*
+audiocues/tutuk_engine	*툭툭 엔진이 덜덜거림*
+audiocues/uv_billboard	*감각적인 팝 음악*
+audiocues/wind_chimes	*풍경 소리*
+conditioning/button_label_equip	준비
+conditioning/button_label_process	숙고
+conditioning/button_label_process_blocked	숙고 불가
+conditioning/button_label_suppress	억제
+conditioning/button_label_suppress_blocked	억제 불가
+conditioning/button_label_unequip	준비 해제
+conditioning/button_label_unlock	잠금 해제
+conditioning/button_tooltip_sort	정렬
+conditioning/contemplate_unlocks_label	숙고 가능까지:
+conditioning/faculty_affected	{0} 능력군 영향
+conditioning/modal_name_reinforced	강화됨
+conditioning/modal_name_suppressed	억제됨
+conditioning/slot_description_empty	생각이 자리할 수 있는 슬롯입니다.
+conditioning/slot_detail_dissonant	위배된 생각
+conditioning/slot_detail_empty	생각 없음
+conditioning/slot_detail_reinforced	강화된 생각
+conditioning/slot_detail_suppressed	억제된 생각
+conditioning/slot_detail_unprocessed	미숙고 생각
+conditioning/slot_hint_slots_count	슬롯 {0} / {1} 해제됨
+conditioning/slot_title_empty	비어 있음
+conditioning/slot_title_equipped	준비된 생각
+conditioning/slot_title_locked	잠김
+conditioning/slot_title_unequipped	미숙고 생각
+conditioning/sp_name	스킬 포인트 {0}
+conditioning/suppress_description	생각 제거
+conditioning/suppress_label_equip	슬롯에서 생각 제거
+conditioning/suppress_label_lose	강화 효과 상실
+conditioning/suppress_label_timer	생각 고정 기간:
+conditioning/suppress_label_timer_hour_format	{0}시간
+conditioning/thought_label_name_suppress	억제
+conditioning/thought_subtitle_dissonance	위배
+conditioning/thought_subtitle_effects	강화 효과
+conditioning/thought_subtitle_suppress	억제
+conditioning/thoughts_title	생각
+dialogue/build_transition_quote	전쟁의 시작은 비밀에 부쳐질 것이다.
+dialogue/build_transition_quote_name	--제니 홀저
+dialogue/button_continue	계속
+dialogue/button_end	종료
+dialogue/button_exert	전력
+dialogue/dissonance_lost	생각 위배 해소: {0}
+dialogue/dissonance_triggered	생각 위배: {0}
+dialogue/gained_skill_point	스킬 포인트 획득: +{0}{1}
+dialogue/item_gained	물품 획득: {0}
+dialogue/item_lost	물품 상실: {0}
+dialogue/journal_task_added	과제 추가: {0}
+dialogue/journal_task_cancelled	과제 취소: {0}
+dialogue/journal_task_completed	과제 완료: {0}
+dialogue/journal_task_revealed	과제 공개: {0}
+dialogue/journal_task_updated	과제 갱신: {0}
+dialogue/money_is_lowered	솔 감소: - {0}{1}
+dialogue/money_is_raised	솔 획득: + {0}{1}
+dialogue/new_loose_end	새 미결 사안: {0}
+dialogue/option_check_locked	{0} <color=white>[{1}] [잠김]</color> {2}
+dialogue/option_check_open	{0} <color=white>[{1}]</color> {2}
+dialogue/option_check_tool	{0} <color=white>[{1}]</color> {2} ({3} 사용)
+dialogue/option_check_tool_locked	{0} <color=white>[{1}] [{2} 필요]</color> {3}
+dialogue/option_check_tool_locked_failed	{0} <color=white>[{1}] [잠김]</color> {2} ({3} 사용)
+dialogue/option_spend	{0} ({1} {2} 소모)
+dialogue/option_tool	{0} ({1} 사용)
+dialogue/passive_failure	{0} {1} 실패
+dialogue/passive_success	{0} {1} 성공
+dialogue/pressure_elevated	압박 상승: {0}
+dialogue/pressure_limit_reached	{0} 한계 도달
+dialogue/pressure_reset	{0} 초기화
+dialogue/pressures_are_lowered	{0} 감소: -{1}
+dialogue/pressures_are_raised	{0} 증가: +{1}
+dialogue/raised_xp	경험치 획득: +{0} XP
+dialogue/skill_downgraded	{0} 하향
+dialogue/sol_price_format	{0} {1}
+dialogue/status_effect_gained	상태 획득: {0}
+dialogue/status_effect_lost	상태 해제: {0}
+dialogue/tactical_mode_back	뒤로
+dialogue/tactical_mode_deliberate	{0} (숙의)
+dialogue/tactical_mode_examine	{0} (조사)
+dialogue/thought_discovered	생각 발견: {0}
+dialogue/thought_forgotten	생각 망각: {0}
+dialogue/thought_reinforced	생각 강화: {0}
+dialogue/white_check_unlocked	판정 해금: {0}
+dossier/button_label_raise	이 스킬 강화
+dossier/button_label_raise_blocked	이 스킬 강화 불가
+dossier/button_label_year_zero_blocked	생각 '영년' 때문에 불가
+dossier/faculty_action	행동 능력군
+dossier/faculty_intelect	지성 능력군
+dossier/faculty_relation	관계 능력군
+dossier/handicap_event_button	스킬 하향
+dossier/handicap_event_name	{0} 최대치 도달
+dossier/handicap_event_title	스킬 하나를 하향해 마음을 가라앉히십시오.
+dossier/label_sp	스킬 포인트 {0}
+dossier/label_xp	경험치 {0} / 100 XP
+dossier/mods_clothing	의복 수정치
+dossier/mods_status	상태 수정치
+dossier/mods_title	수정치
+dossier/skill_caps_maxed_out	스킬 상한 도달
+dossier/status_duration	{0}시간
+dossier/status_duration_minutes	{0}분
+dossier/status_label	상태 효과
+effects/and_connector	{0} 및 {1}
+effects/clear_gained_status_label	시한부 상태 효과 제거
+effects/contains_tool_effect_label	{0} 포함
+effects/counter_communist	공산주의자
+effects/counter_conspirational	음모론적
+effects/counter_cool	쿨함
+effects/counter_hardcore	하드코어
+effects/counter_liberal	자유주의적
+effects/counter_philosophical	철학적
+effects/counter_repentful	회개
+effects/counter_technofascist	테크노 파시스트
+effects/gain_status_label	상태 획득: {0}
+effects/multiple_connector	{0}, {1}
+effects/or_connector	{0} 또는 {1}
+effects/skill_cap_modifier	{0} 스킬 한도 {1}
+effects/skill_potential_nil	스킬 잠재력은 늘어나지 않지만, 스킬 효과가 더 강해집니다.
+effects/thought_condition_consumableBonus	{0} 소비 시
+effects/thought_condition_counterStatus	“{0}” 선택지를 고를 때
+effects/thought_condition_counterStatus_locus_internal_control	멜리타를 화나게 할 때
+effects/thought_condition_counterXp	“{0}” 선택지를 고를 때
+effects/thought_condition_elevatedEffect	“{0}” 효과가 적용 중일 때
+effects/thought_condition_equippedCounter	“{0}” 선택지를 고르고 {1}을(를) 들고 있을 때
+effects/thought_condition_equippedCounter_finalsociety	“{0}” 선택지를 고르고 루스산 제품을 들고 있을 때
+effects/thought_condition_equippedXp	{0} 착용 시
+effects/thought_condition_noExert	분발하지 않는 동안
+effects/thought_condition_reinforced	생각이 강화되었을 때
+effects/thought_condition_statusStatus	“{0}” 선택지를 고를 때
+effects/thought_condition_statusStatus_locus_internal_control	멜리타를 화나게 할 때
+effects/thought_condition_stressedBuyer	물건을 구매할 때
+effects/thought_conditions_format	{0}:
+effects/thought_effect_autoSave	모든 빨간 판정에 {0} 보너스
+effects/thought_effect_consumableBonus	{1} 감소량 {0}배
+effects/thought_effect_counterStatus	{0} {1}
+effects/thought_effect_counterXp	경험치 +{0}
+effects/thought_effect_disadvantage	{0} 불리함 획득
+effects/thought_effect_disadvantage_underlined	<u>{0}</u> 불리함 획득
+effects/thought_effect_easyMode	“첩보 활동엔 너무 어림” 옵션을 게임플레이 설정에서 사용할 수 있습니다.
+effects/thought_effect_efficientExerting	{0} 판정에서 분발하는 비용 {1} {2}
+effects/thought_effect_elevatedEffect	상태 효과 “{0}” 획득
+effects/thought_effect_equippedCounter	{0}{1} 솔 획득
+effects/thought_effect_equippedXp	경험치 보상 +{0}%
+effects/thought_effect_levelUp	모든 스킬에 {0} 보너스
+effects/thought_effect_lose_reinforced_effects	강화된 효과를 일시적으로 잃음
+effects/thought_effect_movementSpeed	이동 속도 +{0}%
+effects/thought_effect_noExert	{1} 판정에 {0} 보너스
+effects/thought_effect_noLevel	현재는 스킬을 강화할 수 없습니다.
+effects/thought_effect_noOverwrite	게임을 수동으로 저장할 수 없습니다.
+effects/thought_effect_peoplesInventory	소지품을 당의 가치에 맞춥니다.
+effects/thought_effect_respec	빌드 변경
+effects/thought_effect_statusStatus	상태 효과 “{0}” 획득
+effects/thought_effect_stressedBuyer	{0} {1}
+effects/thought_effect_unlockedBonus	밤에는 활성화된 모든 해금 판정에 {0} 보너스
+effects/value_modifier_effect_label	{0} {1}
+game_over/bagman_missed	아마추어 TV 쇼 ‘현실 상황’ 폭발 사망 사고 이후 음모론 확산
+game_over/boiler_kurt	지역 역사 소실: 학자들, 포르토피로 문화궁전 붕괴를 애통해하다
+game_over/bomb_death	사진관 폭발로 내부 전원 사망, 테러 공포 확산
+game_over/cardio_grandpa	로켓 발사대 사망 사건: 목격자 “불건강한 생활 방식과 과도한 자기연민” 탓
+game_over/cinema_machine	기이한 기계 오작동으로 옛 코스모스 극장에 화재
+game_over/credits_slow_down	느리게
+game_over/credits_speed_up	빠르게
+game_over/goateyes_shot	불법 복제품 수입, 도를 넘었나? 화물 잔해와 함께 해안에 밀려온 외국인 여성 시신
+game_over/monkey_gun	멍청이가 원숭이에게 총을 줬다가 총에 맞아 사망
+game_over/plastic_fumes	사진관 폐쇄: 화학 증기 사망 사고에 주인 절망
+game_over/pylon_suicide	절망한 투신자가 행인을 덮쳐, 목격자들 트라우마
+game_over/red_disc	<i>경찰국</i>, 포르토피로에 퍼진 치명적인 붉은 디스크 소문 부인
+game_over/roundabout_crash	약에 취한 강도 시도, 저속 충돌 사고로 끝나: 용의자 둘 다 현장 사망
+game_over/silhouette_shot	사랑 이야기, 피와 총알 한 발과 평생 징역으로 끝나다
+game_over/silo_suicide	로켓 발사대 추락사: ‘자율’ 프로젝트 부지에서 또다시 사망자 발생
+game_over/sorry_card	사과가 그렇게 어려운가? 자살은 늘고 사과 카드 판매는 줄어
+game_over/suicide_pill	시신 발견 후 의사회, 무면허 의사 단속
+game_over/thanks_for_playing	플레이해 주셔서\n감사합니다!
+game_over/vending_machine	자신의 조급함에 깔려 숨진 커피 중독자, 현대의 상징이 되다
+game_over/wiretap_fail	구경꾼들, 파괴 공작 실패로 불타는 아마추어 칩 외과의 목격
+game_over/wishlist_now	지금 위시리스트에 추가
+hud/hud_money_format	{0}{1}
+hud/label_day	{0}일차
+hud/locked_tooltip	잠김
+hud/money_name	솔
+hud/page_name_conditioning	사고 형성
+hud/page_name_dossier	도시에
+hud/page_name_inventory	인벤토리
+hud/page_name_journal	일지
+hud/page_name_map	지도
+hud/page_tooltip_close	닫기
+hud/pressures_name_anxiety	불안
+hud/pressures_name_delirum	섬망
+hud/pressures_name_fatigue	피로
+hud/requires_tooltip	{0} 필요
+hud/tooltip_experience_plural	스킬 포인트 {0}개
+hud/tooltip_experience_singular	스킬 포인트 {0}개
+hud/tooltip_fanciful	기타
+hud/tooltip_limit	상승
+hud/tooltip_maximum	한도
+hud/tooltip_money	{0} 솔
+hud/tooltip_objective	목표 보기
+hud/tooltip_tool_empty	비어 있음
+hud/tooltip_tool_multi	멀티툴
+hud/tooltip_tool_torch	손전등
+hud/tutorial_look	둘러보기
+hud/tutorial_move	이동
+hud/tutorial_objective	목표 보기
+hud/tutorial_sprint	달리기
+hud/tutorial_zoom	카메라 확대/축소
+inventory/area_label_doll	B. 시각 자료
+inventory/area_label_info	D. 데이터 출력
+inventory/area_label_items	C. 인벤토리
+inventory/area_label_stats	A. 공작원 도시에
+inventory/doll_label_face	그림 1 - 얼굴
+inventory/doll_label_gloves	그림 6 - 손
+inventory/doll_label_hands	그림 6 - 손
+inventory/doll_label_head	그림 2 - 머리
+inventory/doll_label_held	그림 7 - 들고 있는 것
+inventory/doll_label_jacket	그림 5 - 재킷
+inventory/doll_label_name	허셸 윌크
+inventory/doll_label_neck	그림 3 - 목
+inventory/doll_label_opperant	공작원
+inventory/doll_label_pants	그림 8 - 하의
+inventory/doll_label_shirt	그림 4 - 상의
+inventory/doll_label_shoes	그림 9 - 신발
+inventory/inventory_button_label_consume	소비
+inventory/inventory_button_label_consume_blocked	소비 불가
+inventory/inventory_button_label_equip	장착
+inventory/inventory_button_label_equip_blocked	장착 불가
+inventory/inventory_button_label_inspect	살펴보기
+inventory/inventory_button_label_inspect_blocked	살펴보기 불가
+inventory/inventory_button_label_unequip	해제
+inventory/inventory_button_label_unequip_blocked	해제 불가
+inventory/inventory_group_clothing_label	그룹화
+inventory/inventory_optimize_already_optimize_button_text	이미 최적화됨
+inventory/inventory_optimize_keep_label	유지
+inventory/inventory_optimize_modifiers_change_label	의류 수정치
+inventory/inventory_optimize_no_active_effects_label	{0}에 영향을 주는 의류 없음
+inventory/inventory_optimize_nothing_to_optimize_button_text	최적화할 항목 없음
+inventory/inventory_optimize_optimize_button_text	최적화
+inventory/inventory_optimize_swap_label	교체
+inventory/inventory_optimize_title	{0} 최적화
+inventory/inventory_optimize_unequip_label	해제
+inventory/item_label_carrying	소지 중
+inventory/item_label_equipped	장착 중
+inventory/item_label_price	가격
+inventory/item_type_label	종류
+inventory/item_type_label_all	전체
+inventory/item_type_label_clothing	의류
+inventory/item_type_label_drug	약물
+inventory/item_type_label_face	얼굴
+inventory/item_type_label_gloves	장갑
+inventory/item_type_label_hands	손
+inventory/item_type_label_head	머리
+inventory/item_type_label_held	손에 든 것
+inventory/item_type_label_jacket	겉옷
+inventory/item_type_label_neck	목
+inventory/item_type_label_other	기타
+inventory/item_type_label_pants	하의
+inventory/item_type_label_shirt	상의
+inventory/item_type_label_shoes	신발
+inventory/item_type_label_tools	도구
+inventory/people_label	인민의, 인민을 위한
+journal/button_tag_add	태그 추가
+journal/button_tag_remove	태그 제거
+journal/finished_title	완료된 과제
+journal/loose_ends_description	나중에 쓸모가 있을지도 모르는 정보입니다.
+journal/loose_ends_name	미결 사안
+journal/subtasks_title	하위 과제
+journal/tasks_title	과제
+map/button_label_travel	이동
+map/button_label_travel_blocked	이동 불가
+map/button_label_zoom	축소
+map/destination_animal_zone	동물 구역
+map/destination_bagman_studio	배그맨 스튜디오
+map/destination_boatman	뱃사공
+map/destination_communist_headquarters	문화궁전
+map/destination_ezti_apartment	에스티의 아파트
+map/destination_fogged_mirror	흐려진 거울
+map/destination_ginkyo	신비한 나무
+map/destination_goat_eyes	염소눈
+map/destination_gonza_clinic	곤자의 진료소
+map/destination_hugo_clinic	휴고 박사의 진료소
+map/destination_lucia	사진 촬영 장소
+map/destination_magazine_office	잡지사 사무실
+map/destination_miracle_line	기적 회선
+map/destination_north_east_payphone	공중전화 (북동)
+map/destination_north_west_payphone	공중전화 (북서)
+map/destination_old_cinema	낡은 영화관
+map/destination_opening_hours_format	{0}: {1}-{2}
+map/destination_reno_apartment	레노의 아파트
+map/destination_tapped_payphone	도청된 공중전화
+map/destination_tempo_office	템포의 사무실
+map/destination_tram_east	에어로트램 정거장 (동)
+map/destination_tram_west	에어로트램 정거장 (서)
+map/destination_viewpoint_shift_bar	시점 전환 바
+map/destination_yana	야나의 안가
+map/destinations_label	목적지
+map/district_label_housing_alley	파티 골목
+map/district_label_housing_backways	뒷물길
+map/district_label_housing_bazaar	해적판 바자르
+map/district_label_housing_campaign	주택 캠페인
+map/district_label_housing_docks	옛 부두
+map/district_label_housing_roundabout	키사치 로터리
+map/district_label_housing_shrine	전범 사당
+map/district_label_housing_tract	피톨 지구
+map/info_label_travel	야외에서만 이용할 수 있습니다.
+map/interior_label_bkw_drArbes	휴고 박사의 진료소
+map/interior_label_bkw_exoticPetShop	동물 구역
+map/interior_label_bkw_foggedMirror	흐려진 거울
+map/interior_label_bkw_ramsesBoat	람세스의 하우스보트
+map/interior_label_bkw_shrineViewpoint	사당
+map/interior_label_bkw_sleepStudy	꿈 연구
+map/interior_label_bkw_yanasOffice	템포의 사무실
+map/interior_label_old_cinema	낡은 영화관
+map/interior_label_pra_alleway	골목
+map/interior_label_pra_bagmans	배그맨 스튜디오
+map/interior_label_pra_communistHQ	문화궁전
+map/interior_label_pra_duchesss	더치스의 하우스보트
+map/interior_label_pra_eztis	에스티의 아파트
+map/interior_label_pra_gonzoClinic	곤자의 진료소
+map/interior_label_pra_orp_interior	포토 24
+map/interior_label_pra_safeHouse	안가
+map/interior_label_pra_vacantApartment	빈 아파트
+map/key_label_checks	흰색 판정
+map/key_label_checks_item	{0} : <color=#{1}>{2}</color> [{3}]
+map/key_label_phones	전화기
+map/key_label_vending	자판기
+map/location_label_bkw	뒷물길
+map/location_label_bzr	해적판 바자르
+map/location_label_cats	중앙 에어로트램 정거장
+map/location_label_current	현재 위치
+map/location_label_ens	동나즈
+map/location_label_hsc	주택 캠페인
+map/location_label_odk	옛 부두
+map/location_label_pra	파티 골목
+map/location_label_ptl	피톨 지구
+map/location_label_rbt	키사치 로터리
+map/location_label_sdh	불멸의 영웅 사당
+map/location_label_unknown	알 수 없음
+map/location_label_viewing	보는 중
 menu/Menu/build_flavor_custom	미정
 menu/build_description_action	당신의 강점은 신체 단련과 폭력의 실전 활용에 있습니다. 감정은 거추장스러울 뿐입니다.
 menu/build_description_custom	공작국에서 가장 특별한 어린 스파이입니다. 비할 데 없는 재능을 지녔습니다.
@@ -53,12 +393,12 @@ menu/button_load	불러오기
 menu/button_next	다음
 menu/button_overwrite	덮어쓰기
 menu/button_promote	스킬 강화
+menu/button_reset	초기화
 menu/button_reset_audio	오디오 설정 기본값으로 초기화
 menu/button_reset_controls	조작 설정 기본값으로 초기화
 menu/button_reset_display	화면 설정 기본값으로 초기화
 menu/button_reset_gameplay	게임플레이 설정 기본값으로 초기화
 menu/button_reset_visuals	그래픽 설정 기본값으로 초기화
-menu/button_reset	초기화
 menu/button_save	저장
 menu/button_skip	건너뛰기
 menu/category_button_continue	계속
@@ -70,16 +410,16 @@ menu/category_button_mind_palace	백스테이지
 menu/category_button_new	새 게임
 menu/category_button_save	저장
 menu/category_button_settings	설정
-menu/category_button_store_link	스토어 페이지 열기
 menu/category_button_store	스토어
+menu/category_button_store_link	스토어 페이지 열기
 menu/category_button_wishlist	지금 위시리스트에 추가
 menu/content_description_adult	이 게임에는 약물 남용, 신체적 폭력, 차별, 비속어 표현이 포함되어 있습니다.
 menu/content_description_headphones	최적의 경험을 위해 헤드폰 사용을 권장합니다.
 menu/content_description_narrative	선택에는 결과가 따르며, 이후의 이야기 전개와 게임플레이에 영향을 줍니다.
 menu/content_description_title	콘텐츠 경고
 menu/custom_character_downgrade_explanation	그 대가로 강화할 스킬도 하나 선택하게 됩니다.
-menu/file_label_actnumber	제{x}막
 menu/file_label_act	막
+menu/file_label_actnumber	제{x}막
 menu/file_label_clothes	공작원 시각 기록
 menu/file_label_data	공작원 기록 데이터 출력본
 menu/file_label_location	장소
@@ -199,6 +539,7 @@ menu/setting_name_control_run	달리기 전환
 menu/setting_name_control_scrolldown	아래로 스크롤
 menu/setting_name_control_scrollreset	스크롤 초기화
 menu/setting_name_control_scrollup	위로 스크롤
+menu/setting_name_control_select	상호작용
 menu/setting_name_control_selectabove	위쪽 선택
 menu/setting_name_control_selectbelow	아래쪽 선택
 menu/setting_name_control_selectleft	왼쪽 선택
@@ -213,7 +554,6 @@ menu/setting_name_control_selectoption8	선택지 8 선택
 menu/setting_name_control_selectoption9	선택지 9 선택
 menu/setting_name_control_selectoptions	텍스트 선택지 선택
 menu/setting_name_control_selectright	오른쪽 선택
-menu/setting_name_control_select	상호작용
 menu/setting_name_control_show_tooltips	툴팁 표시
 menu/setting_name_control_tabnext	다음 탭
 menu/setting_name_control_tabprevious	이전 탭
@@ -277,13 +617,13 @@ menu/settings_description_facultyofactioncolor	행동 능력군과 관련 스킬
 menu/settings_description_facultyofintellectcolor	지성 능력군과 관련 스킬에 사용할 사용자 지정 색상입니다.
 menu/settings_description_facultyofrelationcolor	관계 능력군과 관련 스킬에 사용할 사용자 지정 색상입니다.
 menu/settings_description_gamma	모니터가 의도된 밝기로 표시되도록 감마를 조절합니다. 왼쪽의 원이 거의 보이지 않아야 합니다.
-menu/settings_description_hold_to_click_ns2	활성화하면 터치스크린 또는 마우스 모드 사용 시, 버튼이나 터치스크린을 일정 시간 길게 눌러야 동작이 인식됩니다. 누르는 시간은 조절할 수 있습니다.
-menu/settings_description_hold_to_click	활성화하면 마우스 버튼을 일정 시간 길게 눌러야 입력이 인식됩니다. 누르는 시간은 조절할 수 있습니다.
 menu/settings_description_hold	동작을 실행하려면 버튼을 얼마나 오래 눌러야 하는지 설정합니다.
+menu/settings_description_hold_to_click	활성화하면 마우스 버튼을 일정 시간 길게 눌러야 입력이 인식됩니다. 누르는 시간은 조절할 수 있습니다.
+menu/settings_description_hold_to_click_ns2	활성화하면 터치스크린 또는 마우스 모드 사용 시, 버튼이나 터치스크린을 일정 시간 길게 눌러야 동작이 인식됩니다. 누르는 시간은 조절할 수 있습니다.
 menu/settings_description_hud	월드 화면에서 사용자 인터페이스를 숨깁니다.
 menu/settings_description_icons	컨트롤러 사용 시 표시되는 아이콘을 조절합니다.
-menu/settings_description_language_switch	게임 텍스트를 선택한 다른 언어로 전환합니다.
 menu/settings_description_language	게임에 표시되는 텍스트의 언어를 변경합니다.
+menu/settings_description_language_switch	게임 텍스트를 선택한 다른 언어로 전환합니다.
 menu/settings_description_loudness	게임 시작 시 전체 음량을 70%로 설정합니다.
 menu/settings_description_mixing	사용 중인 장치에 맞게 오디오 균형을 최적화합니다.
 menu/settings_description_monitor	게임을 표시할 모니터를 선택합니다.
@@ -306,13 +646,13 @@ menu/settings_description_speech	활성화하면 커서를 올렸거나 선택�
 menu/settings_description_sprint	활성화하면 달리기 키가 누르고 있는 방식이 아니라 걷기와 달리기를 전환하는 방식으로 작동합니다.
 menu/settings_description_textsize	장식용이 아닌 텍스트의 크기를 변경합니다.
 menu/settings_description_textspeed	코멘트, 구체, 알림이 표시되는 시간을 조절합니다.
-menu/settings_description_twitchTimer	Twitch 투표 타이머의 지속 시간을 조절합니다.
 menu/settings_description_twitch	활성화하면 플레이어가 허용했을 때 Twitch 시청자가 캐릭터 메뉴를 보고 대화 및 일지 과제에 투표할 수 있습니다.
+menu/settings_description_twitchTimer	Twitch 투표 타이머의 지속 시간을 조절합니다.
 menu/settings_description_usecustomoutlinecolor	상호작용할 수 있는 모든 사물의 윤곽선 색상을 지정한 하나의 색상으로 통일합니다.
+menu/settings_description_vibration	진동 강도를 조절합니다.
 menu/settings_description_vibration_nx2	진동 기능의 강도를 조절합니다.
 menu/settings_description_vibration_ps5	진동 강도를 조절합니다.
 menu/settings_description_vibration_xbox	진동 강도를 조절합니다.
-menu/settings_description_vibration	진동 강도를 조절합니다.
 menu/settings_description_visibility	사물의 윤곽선이 보이려면 얼마나 가까이 다가가야 하는지 조절합니다.
 menu/settings_description_voiceover	들을 음성 종류를 선택합니다.
 menu/settings_description_volumeenvironment	바람 소리 같은 환경음의 음량을 조절합니다.
@@ -324,8 +664,8 @@ menu/settings_description_volumevoice	캐릭터 대사 음성의 음량을 조�
 menu/settings_description_vsync	화면 찢어짐을 막기 위해 게임 프레임 속도를 모니터 주사율에 맞춥니다.\n화면 찢어짐과 초당 프레임 수(FPS)를 줄여 성능을 개선할 수 있습니다.
 menu/settings_description_walkable	활성화하면 바닥에서 걸어갈 수 있는 영역이 표시됩니다.
 menu/settings_description_zoom	활성화하면 플레이어의 이동 속도에 맞춰 카메라가 자동으로 확대/축소됩니다.
-menu/settings_dialogue_preview_entry_entity	내레이터
 menu/settings_dialogue_preview_entry	한글 글꼴 미리보기 예시입니다. 표시 상태를 확인하십시오!
+menu/settings_dialogue_preview_entry_entity	내레이터
 menu/settings_dialogue_preview_option_check	한글 글꼴 미리보기 예시입니다.
 menu/settings_dialogue_preview_option_text1	한글 글꼴 미리보기 예시입니다!
 menu/settings_dialogue_preview_option_text2	한글 글꼴 미리보기 예시입니다?
@@ -351,14 +691,14 @@ menu/settings_name_cursor	커서 크기
 menu/settings_name_display_	표시 모드
 menu/settings_name_dyslexic	난독증 친화 글꼴
 menu/settings_name_gamma	감마 보정
-menu/settings_name_hold_to_click_ns2	길게 눌러 클릭/터치
-menu/settings_name_hold_to_click	길게 눌러 클릭
 menu/settings_name_hold	길게 눌러 동작
+menu/settings_name_hold_to_click	길게 눌러 클릭
+menu/settings_name_hold_to_click_ns2	길게 눌러 클릭/터치
 menu/settings_name_hpf	하이패스 필터
 menu/settings_name_hud	HUD 숨기기
 menu/settings_name_icons	컨트롤러 아이콘
-menu/settings_name_language_switch	언어 전환
 menu/settings_name_language	텍스트 언어
+menu/settings_name_language_switch	언어 전환
 menu/settings_name_loudness	시작 시 음량
 menu/settings_name_lpf	로우패스 필터
 menu/settings_name_mixing	믹싱 방식
@@ -374,18 +714,18 @@ menu/settings_name_render	렌더링 품질
 menu/settings_name_scaling	인터페이스 크기 배율
 menu/settings_name_sensitivity	마우스/스틱 감도
 menu/settings_name_sensor	극단적 콘텐츠 센서
-menu/settings_name_speaker_ps5	스피커 유형
 menu/settings_name_speaker	스피커 유형
+menu/settings_name_speaker_ps5	스피커 유형
 menu/settings_name_speech	텍스트 음성 변환
 menu/settings_name_sprint	키보드 달리기 전환
 menu/settings_name_textsize	텍스트 크기
 menu/settings_name_textspeed	텍스트 속도
-menu/settings_name_twitchTimer	Twitch 투표 시간
 menu/settings_name_twitch	Twitch 연동
+menu/settings_name_twitchTimer	Twitch 투표 시간
+menu/settings_name_vibration	진동
 menu/settings_name_vibration_nx2	진동
 menu/settings_name_vibration_ps5	진동
 menu/settings_name_vibration_xbox	진동
-menu/settings_name_vibration	진동
 menu/settings_name_visibility	상호작용 대상 표시
 menu/settings_name_voiceover	음성 출력
 menu/settings_name_volumeenvironment	환경음 음량
@@ -493,3 +833,115 @@ menu/twitch_end_vote	투표 종료
 menu/twitch_start_vote	투표 시작
 menu/twitch_voting_percentage_format	{0}%
 menu/unsaved_progress_loss_warning	저장하지 않은 진행 상황은 모두 사라집니다.
+notifications/button_destination	목적지 보기
+notifications/button_district	지구 보기
+notifications/button_dossier	도시에 열기
+notifications/button_item	물품 보기
+notifications/button_map	지도 열기
+notifications/button_task	임무 보기
+notifications/button_thought	생각 보기
+notifications/description_checks_unlocked	모든 스킬
+notifications/dissonance_status_effect_discription	{0} 위배
+notifications/skill_point_format	{0}{1}
+notifications/sleep_prompt	잠을 자면 압박이 줄어듭니다
+notifications/title_check_unlocked	판정 해금
+notifications/title_checks_unlocked	판정 해금
+notifications/title_destination_discovered	목적지 발견
+notifications/title_district_discovered	지구 발견
+notifications/title_gain_effect	상태 효과 획득
+notifications/title_gained_item	물품 획득
+notifications/title_gained_sp	스킬 포인트 획득
+notifications/title_limit_reached	압박 상승
+notifications/title_limit_relieved	압박 완화
+notifications/title_lose_effect	상태 효과 상실
+notifications/title_lost_item	물품 상실
+notifications/title_skill_downgraded	스킬 하락
+notifications/title_task_cancelled	임무 취소
+notifications/title_task_completed	임무 완료
+notifications/title_task_new	새 임무
+notifications/title_task_updated	임무 갱신
+notifications/title_thought_discovered	생각 발견
+notifications/title_thought_dissonant	생각 위배
+notifications/title_thought_forgotten	생각 망각
+notifications/title_thought_resurfaced	생각이 다시 떠오름
+silhouette/alternativeNames_0	불길한 빨간 머리 여자
+silhouette/alternativeNames_1	문지기
+silhouette/alternativeNames_2	프레데리크의 관리관
+silhouette/alternativeNames_3	부편집자
+silhouette/alternativeNames_4	엠테르 심문관
+silhouette/alternativeNames_5	실루엣
+silhouette/alternativeNames_6	조이
+silhouette/character_full_name	부편집자
+skillchecks/check_result_failure	실패
+skillchecks/check_result_success	성공
+skillchecks/description_red	다시 시도할 수 없습니다
+skillchecks/description_white	다시 시도할 수 있습니다
+skillchecks/dice_label_advantage	{0} 이상 굴리기\n높은 2개 기준
+skillchecks/dice_label_disadvantage	{0} 이상 굴리기\n낮은 2개 기준
+skillchecks/dice_label_regular	{0} 이상 굴리기
+skillchecks/dice_label_roll	주사위 {0}개 굴리기
+skillchecks/difficulty_1	성공 예정
+skillchecks/difficulty_10	절망 예상
+skillchecks/difficulty_11	기적이 필요함
+skillchecks/difficulty_2	거의 식은 죽 먹기
+skillchecks/difficulty_3	매우 유리
+skillchecks/difficulty_4	어느 정도 안전
+skillchecks/difficulty_5	아슬아슬함
+skillchecks/difficulty_6	승산 높음
+skillchecks/difficulty_7	승산 괜찮음
+skillchecks/difficulty_8	희망은 남아 있음
+skillchecks/difficulty_9	실패 유력
+skillchecks/difficulty_locked_check	잠긴 판정
+skillchecks/modal_modifiers_title	수정치
+skillchecks/result_modal_label_bonuses	보너스
+skillchecks/result_modal_label_dice	[{0}] 주사위 굴림
+skillchecks/result_modal_label_locked	수정치를 얻거나, 스킬 레벨을 올리거나, 잠을 자면 이 판정이 해금됩니다.
+skillchecks/result_modal_label_modifiers	[{0}] 수정치
+skillchecks/result_modal_label_passives	패시브 판정 결과는 스킬 레벨 [{0}]+{1}로 정해집니다.
+skillchecks/result_modal_label_rating	[{0}] 스킬 레벨
+skillchecks/result_modal_label_roll	내 굴림
+skillchecks/result_modal_label_target	목표
+skillchecks/result_modal_label_total	결과
+skillchecks/result_modal_label_type	판정 유형:
+skillchecks/result_modal_label_vs	\
+skillchecks/roll_type_critical_fail	항상 실패
+skillchecks/roll_type_critical_success	항상 성공
+skillchecks/skill_check_modifier_cannot_exert	전력을 다할 수 없습니다. {0} 상승.
+skillchecks/skill_modal_auto_save_only_modifier_description	한 번만 기록 가능
+skillchecks/skill_modal_difficulty_percentage	[{0}%]
+skillchecks/skill_modal_disadvantage_modifier_description	상태 효과로 인한 불리함
+skillchecks/skill_modal_dissonance_modifier_description_format	이 생각을 강화하여 위배가 발생했습니다: “{0}”
+skillchecks/skill_modal_faculty_modifier_description_format	모든 {0} 스킬
+skillchecks/skill_modal_level_up_block_modifier_description	{0}
+skillchecks/skill_modal_modifier_value_format	[{0}]
+skillchecks/skill_modal_no_exert_modifier_description	변형된 제한적 폭로
+skillchecks/skill_modal_pressure_modifier_description_format	{0} 압박
+skillchecks/skill_modal_time_bonus_modifier_description	그림자 군세
+skillchecks/skill_modal_total_modifiers_format	 [{0}]
+skillchecks/type_label_anti_passive	반패시브 판정
+skillchecks/type_label_passive	패시브 판정
+skillchecks/type_label_red	빨간 판정
+skillchecks/type_label_white	흰 판정
+skillchecks/type_label_white_locked	흰 판정 (잠김)
+statuses/dossier_blocked_sleep	잠들 수 없음
+statuses/dossier_conditioning_description	생각 숙고 시 추가 경험치
+statuses/dossier_conditioning_name	경험치 {0}
+statuses/dossier_counter_listener	“{0}” 선택지를 고를 때
+statuses/dossier_disadvantage	{0} 판정에 불리함
+statuses/dossier_dissonance_title	{0} 위배됨
+statuses/dossier_faculty_with_value	{0} {1}
+statuses/dossier_failure_check	판정 실패 시
+statuses/dossier_item_gained	물품을 획득할 때
+statuses/dossier_lasts_for	지속 시간:
+statuses/dossier_lower_pressure	{0} 감소
+statuses/dossier_multiple_dissonance	생각 {0}개가 현재 위배 상태입니다
+statuses/dossier_no_exert	{0} 판정에서는 전력을 다할 수 없습니다.
+statuses/dossier_npc_interaction	사람들과 대화할 때
+statuses/dossier_pressure_with_value	{0} {1}
+statuses/dossier_raise_pressure	{0} 증가
+statuses/dossier_raise_xp	경험치 증가
+statuses/dossier_restful_sleep	모든 압박 {0}% 감소
+statuses/dossier_restful_sleep_description	수면 중
+statuses/dossier_single_dissonance	생각 1개가 현재 위배 상태입니다
+statuses/dossier_skill_with_value	{0} {1}
+statuses/dossier_success_check	판정 성공 시
