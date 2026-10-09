@@ -884,7 +884,7 @@ assemble_new_sick_crew.subTasks{another_four}.updates{find_vespar}/entry	옛 카
 assemble_new_sick_crew.subTasks{another_four}.updates{pseudo_possible}/entry	슈도팟을 되살려 합류하도록 설득할 수 있다면 그가 광대가 될 수 있다.
 assemble_new_sick_crew.subTasks{another_four}.updates{revive_pseudo}/entry	슈도팟이 전투 불능만 아니었다면 좋은 선택이었을 것이다.
 assemble_new_sick_crew.subTasks{another_four}/name	홀로세가 함께 일할 만한 광대를 찾아라
-assemble_new_sick_crew.subTasks{another_three}.updates{cinema}/entry	카롤리나는 키사치의 옛 영화관에서 지낸다.
+assemble_new_sick_crew.subTasks{another_three}.updates{cinema}/entry	카롤리나는 키삭의 옛 영화관에서 지낸다.
 assemble_new_sick_crew.subTasks{another_three}.updates{dr_hugo}/entry	카롤리나의 아버지는 도시 어딘가에서 하우스보트 진료소를 운영한다.
 assemble_new_sick_crew.subTasks{another_three}.updates{es_bank}/entry	에스티는 지금 은행에서 일하지만, 이탈할 마음이 있을지도 모른다.
 assemble_new_sick_crew.subTasks{another_three}.updates{eszti_role}/entry	둘이 서로 잘 지낼 수만 있다면 에스티가 이 자리에 어울린다.
@@ -910,7 +910,7 @@ assemble_new_sick_crew.subTasks{find_three}.updates{find_karolina}/entry	카롤�
 assemble_new_sick_crew.subTasks{find_three}.updates{holocene_dead}/entry	홀로세는 더 이상 후보가 될 수 없다.
 assemble_new_sick_crew.subTasks{find_three}.updates{karo_machine}/entry	카롤리나는 옛 영화관에 있지만 어떤 기계에 정신이 팔린 듯하다.
 assemble_new_sick_crew.subTasks{find_three}.updates{not_eszti}/entry	에스티는 새 분대에 들어올 생각이 전혀 없다.
-assemble_new_sick_crew.subTasks{find_three}.updates{old_cinema}/entry	카롤리나는 키사치의 옛 영화관에서 지낸다.
+assemble_new_sick_crew.subTasks{find_three}.updates{old_cinema}/entry	카롤리나는 키삭의 옛 영화관에서 지낸다.
 assemble_new_sick_crew.subTasks{find_three}.updates{septimus}/entry	카롤리나의 남자 친구 셉티무스가 만남을 가로막는다.
 assemble_new_sick_crew.subTasks{find_three}/name	천문가를 찾아 상황을 다른 각도에서 바라보라
 assemble_new_sick_crew.subTasks{find_two}.updates{kal_ready}/entry	괜찮다면 칼레이도스코프가 합류하고 싶어 한다. 흐려진 거울에서 만나기로 했다.
@@ -1373,7 +1373,7 @@ cvsbw3s_3yy8zsm6.modifier[7]/explanation	그녀의 물건을 훔쳤다.
 cvsbw3s_3yy8zsm6/dialog_lines	문화궁전의 그 노래를 떠올리게 한다.
 cxxs8u0fzmbyq_ha.modifier[0]/explanation	나란히 서서 베스파르를 애도했다.
 cxxs8u0fzmbyq_ha.modifier[1]/explanation	람세스의 약을 두고 거래를 성사시켰다.
-cxxs8u0fzmbyq_ha.modifier[2]/explanation	동키사치에서 자랐다.
+cxxs8u0fzmbyq_ha.modifier[2]/explanation	동키삭에서 자랐다.
 cxxs8u0fzmbyq_ha.modifier[3]/explanation	아주리와 연줄이 있다.
 cxxs8u0fzmbyq_ha.modifier[4]/explanation	냉정한 탈취.
 cze43an219e3ichg/dialog_lines	봉지에 뚫린 구멍 두 개 사이로 눈이 번뜩인다.
@@ -1688,8 +1688,8 @@ fgm7rqklnt23oz0a/dialog_lines	그 저주받은 똥덩이한테서 떨어져. 네
 filing_cabinet/character_full_name	서류 캐비닛
 fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{behind_door}/entry	잡지 편집부에 *열면 안 되는* 잠긴 문이 하나 있다.
 fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{disappearing_payphone}/entry	해적판 바자르 서쪽 입구의 공중전화를 쓴 사람들이 사라졌다.
-fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{entrance_intercom}/entry	키사치 로터리 근처, 인터폰이 달린 건물에 들어가려면 구실이 필요하다.
-fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{get_inside}/entry	키사치 로터리 근처의 노란 건물이 목적지인 듯하다. 이제 안으로 들어갈 방법만 찾으면 된다.
+fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{entrance_intercom}/entry	키삭 로터리 근처, 인터폰이 달린 건물에 들어가려면 구실이 필요하다.
+fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{get_inside}/entry	키삭 로터리 근처의 노란 건물이 목적지인 듯하다. 이제 안으로 들어갈 방법만 찾으면 된다.
 fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{hauzmann_right}/entry	비밀 감옥은 잡지 편집부 어딘가에 있는 게 확실해 보인다. 계속 조사해야 한다.
 fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{past_security}/entry	수문 뒤편의 보안문을 지나 건물의 숨겨진 구역에 들어섰다.
 fillintheoutlineoftheman.subTasks{Investigate_Lower_Level}.updates{poem_accepted}/entry	시가 채택되었다. 이제 뒷방과, 그 방이 이어진 모든 곳에 출입할 수 있다.
@@ -1712,14 +1712,14 @@ fillintheoutlineoftheman.subTasks{waterlock_building}.updates{bags_shit}/entry	�
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{boatman_stayaway}/entry	뱃사공은 부두 너머 남쪽 해안 동쪽에는 얼씬도 하지 말라는 말을 들었다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{broken_glasses}/entry	두꺼운 렌즈의 깨진 안경이 남동쪽 쓰레기통에 버려져 있었다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{east_waterlock}/entry	동쪽 수문 근처에 이상하리만치 경비가 삼엄한 건물이 있다.
-fillintheoutlineoftheman.subTasks{waterlock_building}.updates{entrance_intercom}/entry	키사치 로터리 근처, 인터폰이 달린 건물에 들어가려면 구실이 필요하다.
+fillintheoutlineoftheman.subTasks{waterlock_building}.updates{entrance_intercom}/entry	키삭 로터리 근처, 인터폰이 달린 건물에 들어가려면 구실이 필요하다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{hauzmann_office}/entry	인정머리 없는 동료는 잡지 편집부에 비밀 감옥이 숨겨져 있다고 확신한다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{line_engineer}/entry	사람만 한 상자가 얼마 전 동쪽 수문 옆의 낡은 건물로 옮겨졌다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{malen_hint}/entry	말렌이 바자르 동쪽의 수문을 살펴보라고 제안했다.
-fillintheoutlineoftheman.subTasks{waterlock_building}.updates{noscorrentes_review}/entry	《노스코렌테스 리뷰》는 키사치 로터리 근처에 있는 시 전문 잡지다.
+fillintheoutlineoftheman.subTasks{waterlock_building}.updates{noscorrentes_review}/entry	《노스코렌테스 리뷰》는 키삭 로터리 근처에 있는 시 전문 잡지다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{pilots_waterlock}/entry	전직 조종사들은 서쪽 수문이 수년째 가동되지 않았다고 말한다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{underwater_door}/entry	숨겨진 수중문이 있다는 소문을 들었다.
-fillintheoutlineoftheman.subTasks{waterlock_building}.updates{yellow_building}/entry	키사치 로터리 남쪽의 노란 건물이 찾던 감옥일 가능성이 높다.
+fillintheoutlineoftheman.subTasks{waterlock_building}.updates{yellow_building}/entry	키삭 로터리 남쪽의 노란 건물이 찾던 감옥일 가능성이 높다.
 fillintheoutlineoftheman.subTasks{waterlock_building}.updates{zip_cuffs}/entry	남동쪽 건물 뒤 쓰레기통에서 케이블 타이 수갑을 찾았다.
 fillintheoutlineoftheman.subTasks{waterlock_building}/name	비밀 감옥 찾기
 fillintheoutlineoftheman/character_full_name	비밀 죄수와 접촉하기
@@ -2739,15 +2739,15 @@ pelota_hat/character_full_name	펠로타 모자
 pelota_hat/fullDescription	머리를 거대한 펠로타 공처럼 보이게 만든다. 달린 땋은 머리는 레크레아시온의 스트라이커 발데마르 오초에게 바치는 헌사다.
 pelota_jumper.gearModifiers.skillModifiers[0]/description	홈팀의 자부심
 pelota_jumper/character_full_name	펠로타 저지
-pelota_jumper/fullDescription	키사치 PC 96년도 공식 저지. 96년 선수단은 길거리에서 단련된 전술로 유명했다. 스트라이커 체베 그리발하는 거의 치명적인 반칙으로 이름을 날렸고, 프랑크 에레로(레프트 윙)는 아픈 척하는 연기를 예술의 경지로 끌어올렸다.
+pelota_jumper/fullDescription	키삭 PC 96년도 공식 저지. 96년 선수단은 길거리에서 단련된 전술로 유명했다. 스트라이커 체베 그리발하는 거의 치명적인 반칙으로 이름을 날렸고, 프랑크 에레로(레프트 윙)는 아픈 척하는 연기를 예술의 경지로 끌어올렸다.
 pelota_shorts.gearModifiers.skillModifiers[0]/description	충격에 대비한 자세
 pelota_shorts.gearModifiers.skillModifiers[1]/description	공과 하나가 된
 pelota_shorts/character_full_name	펠로타 반바지
 pelota_shorts/fullDescription	역동적이고 통풍이 잘되며 허벅지 쪽이 트여 있다. 팀 컬러와 대퇴사두근을 한껏 뽐낼 수 있다.
 pelota_visor.gearModifiers.skillModifiers[0]/description	공에서 눈을 떼지 않는다
 pelota_visor.gearModifiers.skillModifiers[1]/description	경기장에 푹 빠진 머리
-pelota_visor/character_full_name	키사치 펠로타 클럽 바이저
-pelota_visor/fullDescription	눈에 확 띄는 충성심의 표현으로, 키사치 PC의 마스코트인 누에나방을 닮았다. 눈 모양은 깜빡이지 않는 시선으로 포르토피로 사람들 사이에서 전설이 된 주앙 '엘 워치맨' 가제이루에게 경의를 표한다.
+pelota_visor/character_full_name	키삭 펠로타 클럽 바이저
+pelota_visor/fullDescription	눈에 확 띄는 충성심의 표현으로, 키삭 PC의 마스코트인 누에나방을 닮았다. 눈 모양은 깜빡이지 않는 시선으로 포르토피로 사람들 사이에서 전설이 된 주앙 '엘 워치맨' 가제이루에게 경의를 표한다.
 pelotaball.gearModifiers.skillModifiers[0]/description	운동 구체
 pelotaball/character_full_name	찌그러진 펠로타 공
 pelotaball/fullDescription	문 고임쇠로 지낸 세월 탓에 영구히 변형되었다. 이제는 경고 노릇을 한다. 제 목적을 다하라, 아니면 *다른 용도*로 쓰이게 될 것이다.
@@ -2889,15 +2889,15 @@ probe_disc_effect/character_full_name	우주 저편의 비밀
 probe_disc_effect/description	하우츠만과 함께 우주 탐사선 디스크를 들으면 얻는다.
 probe_disc_effect/source	오래된 우주 녹음으로 획득
 procureinthreatre.subTasks{buyagun}.updates{ask_boatman_gun}/entry	뱃사공이 올바른 방향을 알려 줄지도 모른다.
-procureinthreatre.subTasks{buyagun}.updates{boatman_directions}/entry	뱃사공이 키사치 로터리 근처 툭툭 주차장으로 가 보라고 했다. 밤에 들러야 한다.
+procureinthreatre.subTasks{buyagun}.updates{boatman_directions}/entry	뱃사공이 키삭 로터리 근처 툭툭 주차장으로 가 보라고 했다. 밤에 들러야 한다.
 procureinthreatre.subTasks{buyagun}.updates{dockworkers_gun}/entry	바자르의 부두 노동자들이라면 이 도시에 무기가 어떻게 흘러드는지 알지도 모른다.
 procureinthreatre.subTasks{buyagun}.updates{goat_eyes}/entry	염소눈은 전에도 무기를 구해 본 사람처럼 보인다. 밤에 찾아가면 만날 수 있다.
-procureinthreatre.subTasks{buyagun}.updates{melita}/entry	멜리타는 아주리 일당이 도와줄 수 있다고 했다. 필요한 사람은 아마 키사치 로터리 근처에 있을 것이다.
+procureinthreatre.subTasks{buyagun}.updates{melita}/entry	멜리타는 아주리 일당이 도와줄 수 있다고 했다. 필요한 사람은 아마 키삭 로터리 근처에 있을 것이다.
 procureinthreatre.subTasks{buyagun}.updates{need_money}/entry	염소눈은 선금을 받으면 무기를 구해 줄 수 있다. 밤에 찾아가면 만날 수 있다.
 procureinthreatre.subTasks{buyagun}.updates{paid_gun}/entry	염소눈에게 무기 값을 치렀다. 몇 시간 뒤에 돌아가 받으면 된다.
-procureinthreatre.subTasks{buyagun}.updates{roundabout}/entry	키사치 로터리 근처 주차장으로 가 보라는 말을 들었다.
+procureinthreatre.subTasks{buyagun}.updates{roundabout}/entry	키삭 로터리 근처 주차장으로 가 보라는 말을 들었다.
 procureinthreatre.subTasks{buyagun}.updates{shifts}/entry	돈이 모자라면 멜리타는 술집이나 부두 같은 동네 업소에서 몇 번 교대 근무를 해 보라고 권한다.
-procureinthreatre.subTasks{buyagun}.updates{yana_clue}/entry	야나는 키사치 로터리 근처에 도움을 줄 만한 사람이 있을 거라고 짐작한다.
+procureinthreatre.subTasks{buyagun}.updates{yana_clue}/entry	야나는 키삭 로터리 근처에 도움을 줄 만한 사람이 있을 거라고 짐작한다.
 procureinthreatre.subTasks{buyagun}/name	무기 구입하기
 procureinthreatre.subTasks{make_gun}.updates{find_plastic}/entry	무기를 만들려면 녹인 플라스틱 500그램이 필요하다.
 procureinthreatre.subTasks{make_gun}.updates{gun_schematics}/entry	자작 무기의 설계도를 구해야 한다. 책 한 권이 도움이 될지도 모른다.
@@ -3020,7 +3020,7 @@ qa9zr0wts5wirh1c.modifier[9]/explanation	자본가를 걷어찼다.
 qa9zr0wts5wirh1c/dialog_lines	건물의 주파수에 맞춰 조율한다.
 qbdakqbos12jzumf/dialog_lines	잠깐, 이 책이 총 만드는 법을 알려 주는 거야?
 qmerj3g7q7qgvs5t/dialog_lines	물론 그의 예전 모습을 되돌릴 수 있다면, 작전 현장에서 소중한 친구이자 동료가 되어 줄 것이다.
-quisachflopper/character_full_name	키사치의 할리우드 액션 에이스
+quisachflopper/character_full_name	키삭의 할리우드 액션 에이스
 r28rvqs4xg47dl53/dialog_lines	그만한 돈을 마련하기는 쉽지 않다. 관리관에게 전화해서 현금을 수혈해 달라고 하는 편이 가장 낫다.
 r_imk0ryvhvxi_o3/dialog_lines	중론인 모양이다.
 railing/character_full_name	난간
@@ -3091,7 +3091,7 @@ recruit_karolina_task.subTasks{Hack_Machine}.updates{find_karo}/entry	카롤리�
 recruit_karolina_task.subTasks{Hack_Machine}.updates{interface_button}/entry	"셉티무스가 콘솔의 ""인터페이스"" 버튼을 누르라고 했다."
 recruit_karolina_task.subTasks{Hack_Machine}.updates{laid_back}/entry	이 장치를 조작할 방법이 분명히 있을 것이다.
 recruit_karolina_task.subTasks{Hack_Machine}.updates{melita}/entry	멜리타가 카롤리나의 남자친구에게 기계가 어떻게 작동하는지 물어보라고 했다.
-recruit_karolina_task.subTasks{Hack_Machine}.updates{old_cinema}/entry	카롤리나는 옛 키사치 극장에서 지낸다.
+recruit_karolina_task.subTasks{Hack_Machine}.updates{old_cinema}/entry	카롤리나는 옛 키삭 극장에서 지낸다.
 recruit_karolina_task.subTasks{Hack_Machine}.updates{sept_block}/entry	카롤리나의 남자친구 셉티무스가 그녀를 만나지 못하게 막고 있다.
 recruit_karolina_task.subTasks{Hack_Machine}.updates{sigils_clue}/entry	셉티무스가 기계에 새겨진 인장을 살펴보라고 했다.
 recruit_karolina_task.subTasks{Hack_Machine}/name	기계를 통해 카롤리나에게 닿기
@@ -3135,7 +3135,7 @@ recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{fail_lockpick}/entr
 recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{gonza_azzuris}/entry	곤자 박사는 뒷길을 통해 약을 주문한다.
 recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{gonza_desk_phone_numbers}/entry	곤자의 책상 위 메모장에 공급업자의 번호가 적혀 있는 모양이다.
 recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{gonza_wont_sell}/entry	곤자는 항경련제를 팔지 않을 것이다. 그런 약은 대량으로만 거래되는 듯하다.
-recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{lockpick}/entry	멜리타 말로는 키사치 로터리 근처에서 활동하는 아주리 패거리에게서 자물쇠 따개를 구할 수 있다고 한다.
+recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{lockpick}/entry	멜리타 말로는 키삭 로터리 근처에서 활동하는 아주리 패거리에게서 자물쇠 따개를 구할 수 있다고 한다.
 recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{melita}/entry	멜리타는 곤자의 전화기에 도청기를 설치해 그가 공급업자에게 다음에 전화할 때 엿들으라고 제안했다.
 recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{missing_numbers}/entry	람세스는 약 탈취 계획을 실행하려면 곤자의 책상에 있는 전화번호가 필요하다고 한다.
 recruit_ramses_task.subTasks{access_gonza_suppliers}.updates{note_at_night}/entry	곤자는 눈치가 빨라서, 그가 있는 동안에는 책상 위 메모를 가져갈 수 없다.
@@ -3915,7 +3915,7 @@ who_cares_about_the_moon.subTasks{develophotos}.updates{waitphotos}/entry	필름
 who_cares_about_the_moon.subTasks{develophotos}/name	필름을 현상하라
 who_cares_about_the_moon.subTasks{photographleak}.updates{botched_it}/entry	첫 촬영 기회를 놓쳤지만 내일 다시 시도할 수 있다.
 who_cares_about_the_moon.subTasks{photographleak}.updates{tail_and_photo}/entry	이그나츠는 카라비네로가 자신의 관리관을 만나는 순간을 사진으로 찍어 달라고 부탁했다.
-who_cares_about_the_moon.subTasks{photographleak}.updates{time_and_place}/entry	카라비네로와 관리관은 오전 늦게 키사치 로터리 동쪽 다리에서 만난다.
+who_cares_about_the_moon.subTasks{photographleak}.updates{time_and_place}/entry	카라비네로와 관리관은 오전 늦게 키삭 로터리 동쪽 다리에서 만난다.
 who_cares_about_the_moon.subTasks{photographleak}/name	정보를 흘리는 카라비네로를 사진으로 찍어라
 who_cares_about_the_moon.subTasks{return_ignatz}.updates{rof_meet}/entry	이그나츠는 주택 캠페인 옥상에서 만나자고 했다. 단, 밤에만.
 who_cares_about_the_moon.subTasks{return_ignatz}/name	이그나츠에게 나쁜 소식을 전하라

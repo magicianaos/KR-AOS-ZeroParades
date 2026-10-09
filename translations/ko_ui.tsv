@@ -301,7 +301,7 @@ map/district_label_housing_backways	뒷물길
 map/district_label_housing_bazaar	해적판 바자르
 map/district_label_housing_campaign	주택 캠페인
 map/district_label_housing_docks	옛 부두
-map/district_label_housing_roundabout	키사치 로터리
+map/district_label_housing_roundabout	키삭 로터리
 map/district_label_housing_shrine	전범 사당
 map/district_label_housing_tract	피톨 지구
 map/info_label_travel	야외에서만 이용할 수 있습니다.
@@ -335,7 +335,7 @@ map/location_label_hsc	주택 캠페인
 map/location_label_odk	옛 부두
 map/location_label_pra	파티 골목
 map/location_label_ptl	피톨 지구
-map/location_label_rbt	키사치 로터리
+map/location_label_rbt	키삭 로터리
 map/location_label_sdh	불멸의 영웅 사당
 map/location_label_unknown	알 수 없음
 map/location_label_viewing	보는 중
@@ -750,7 +750,7 @@ menu/settings_option_icons_nintendo	닌텐도
 menu/settings_option_icons_none	없음
 menu/settings_option_icons_playstation	PlayStation
 menu/settings_option_icons_xbox	Xbox
-menu/settings_option_language_chinesesimple	중국어 간체
+menu/settings_option_language_chinesesimple	한국어
 menu/settings_option_language_english	English
 menu/settings_option_language_german	Deutsch
 menu/settings_option_language_russian	Русский
