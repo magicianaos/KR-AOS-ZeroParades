@@ -14,6 +14,18 @@ ZA/UM의 *ZERO PARADES: For Dead Spies*(Steam)의 비공식 한국어 번역입�
 
 원래대로 되돌리려면 `RESTORE.bat`을 실행하거나 Steam에서 "게임 파일 무결성 검사"를 하세요. 설치할 때 원본 파일은 압축을 푼 폴더의 `backup_current` 폴더에 자동으로 백업되므로 지우지 마세요. 설치 전에 원본·패치 파일의 SHA-256을 검사하고, 설치 중 실패하면 자동으로 되돌립니다.
 
+## 설치 방법 (Steam Deck / SteamOS · 리눅스)
+Windows 런처를 띄우기 어려운 리눅스에서는 [`linux/zp_kr_linux.py`](linux/README.md)로 설치합니다. v1.0 런처와 같은 방법으로 만들고 결과 해시가 같을 때만 바꾸므로, 결과는 Windows 런처로 설치한 것과 같습니다.
+1. 데스크톱 모드에서 Konsole(터미널)을 엽니다. 게임은 완전히 종료하고 Steam은 켜 둡니다.
+2. 아래를 실행합니다. 공식 v1.0 런처 exe를 받아 SHA-256을 확인한 뒤, 그 안의 패치 자료만 꺼내 씁니다(exe는 실행하지 않음).
+   ```sh
+   curl -LO https://raw.githubusercontent.com/magicianaos/KR-AOS-ZeroParades/main/linux/zp_kr_linux.py
+   python3 zp_kr_linux.py install
+   ```
+3. 게임 실행 후 **설정 → 게임플레이 → 텍스트 언어**에서 **한국어**를 선택합니다.
+
+원래대로 되돌리려면 `python3 zp_kr_linux.py restore`를 실행하거나 Steam에서 "게임 파일 무결성 검사"를 하세요. 자세한 내용은 [linux/README.md](linux/README.md)에 있습니다.
+
 ## 이 패치가 바꾸는 것
 - 텍스트 표(중국어 슬롯 → 한국어), 글꼴(한글 지원 Noto Sans CJK KR로 교체), 제목 로고 그림(중국어판 로고 → 영어 로고), 첫 화면 저작권 문구
 - 한국어 줄바꿈 설정: 게임의 `resources.assets` 안에서 "한글 현대식 줄바꿈 규칙" 값 1바이트를 켜서, 문장이 단어 중간에서 끊기지 않고 띄어쓰기 위치에서만 줄이 바뀌게 합니다. 설치 파일(`INSTALL.bat`)이 사용자 PC에서 직접 고치며, 원본은 백업됩니다.
@@ -25,6 +37,7 @@ ZA/UM의 *ZERO PARADES: For Dead Spies*(Steam)의 비공식 한국어 번역입�
 | `translations/ko_dialogue.tsv` | 대사·서술 번역 (키 + 한국어) |
 | `translations/ko_ui.tsv` | 메뉴·설정 등 UI |
 | `translations/ko_misc.tsv` | 아이템·인물·효과·일지 등 |
+| `linux/zp_kr_linux.py` | Steam Deck·SteamOS(리눅스)용 설치 도구 ([설명](linux/README.md)) |
 | `LICENSE-NotoSansCJK-OFL.txt` | 글꼴 라이선스(SIL OFL 1.1) |
 | `NOTICE.md` | 출처·저작권 고지 |
 
